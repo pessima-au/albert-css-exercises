@@ -1,0 +1,21 @@
+.odd_number{
+    background-color: rgb(233, 148, 148);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#even_number1{
+    color: blue;
+    font-size: 36px;
+}
+
+#cooler{
+    font-size: 24px;
+}
+
+#even_number2{
+  background-color: rgb(154, 243, 154);
+  font-size: 24px;
+  font-weight: bold;
+
+
+}
